@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+<style>
+#list
+{   
+	width:500px;
+	height:230px;
+	margin-left:500px;
+	background-image:url(background.png);
+	-moz-background-size:100% 100%; 
+	background-size:100% 100%;
+}	
+
+
+</style>
+</head>
+<body>
+<div id="list">
+<ul>
+	<li><a href="与计算机的邂逅.pdf"><p>a. "我"的专业志趣网页</p></a></li>
+	<li><a href="计导：软工林柯颖2017051601.pdf"><p>b. 专业排版项目的最终PDF文件下载</p></a> </li> 
+	<li><a href="软工林柯颖051601 Excel数据处理实验.xlsx"><p>c. 数据处理项目的Excel文件下载</p></a></li>
+	<li><a href="计导-051601林柯颖-第二次作业-我的家乡.pptx"><p>d. 我的家乡项目的PPT文件下载</p></a></li>  
+	<li><a href=""><p>e. 我的家乡项目的网页版；</p></a></li>
+	<li><a href=""><p>f.  一个自己的C程序设计课程作业的C程序网页(自寻工具制作，比如C2HTML)</p></a></li>
+</ul>
+</div>
+</body>
+</html>
